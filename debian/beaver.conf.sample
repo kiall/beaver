@@ -1,1 +1,2 @@
 [beaver]
+files: /var/log/*.log
