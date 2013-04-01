@@ -5,3 +5,14 @@
 build
 dist
 pkg
+
+
+
+debian/beaver/
+debian/python-beaver/
+debian/tmp/
+debian/*.log
+debian/*.substvars
+debian/*.debhelper
+debian/files
+.pc
